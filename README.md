@@ -1,5 +1,5 @@
 # Study Assistant — PDF to MCQ Generator (LangChain)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 A reusable LangChain-based pipeline that converts a PDF document into
 exam-ready multiple-choice questions (MCQs).
 
