@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of prompt engineering in NLP?",
+    "options": {
+      "A": "To guide the AI model in producing the expected output.",
+      "B": "To analyze existing data for patterns.",
+      "C": "To classify data into predefined categories.",
+      "D": "To create visual content without text."
+    },
+    "correct_answer": "A",
+    "explanation": "The primary purpose of prompt engineering is to guide the AI model to perform specific tasks by providing clear and detailed instructions."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best describes Few-Shot Prompting?",
+    "options": {
+      "A": "Providing no examples to the model.",
+      "B": "Offering a single example to guide the model.",
+      "C": "Giving multiple examples to enhance task performance.",
+      "D": "Encouraging the model to reason through a series of steps."
+    },
+    "correct_answer": "C",
+    "explanation": "Few-Shot Prompting involves providing multiple examples to the model to improve its effectiveness in performing a task."
+  },
+  {
+    "id": 3,
+    "question": "Why is it important to avoid open-ended questions in prompt engineering?",
+    "options": {
+      "A": "They can lead to overly specific answers.",
+      "B": "They may result in imprecise answers.",
+      "C": "They are too complex for AI models.",
+      "D": "They require too much context."
+    },
+    "correct_answer": "B",
+    "explanation": "Open-ended questions can lead to ambiguity and imprecise answers, making it essential to use clear and concise prompts."
+  },
+  {
+    "id": 4,
+    "question": "How does Chain-of-Thought (CoT) prompting enhance AI performance?",
+    "options": {
+      "A": "By providing no context for the task.",
+      "B": "By encouraging reasoning through a series of steps.",
+      "C": "By limiting the model's ability to generate new content.",
+      "D": "By focusing solely on classification tasks."
+    },
+    "correct_answer": "B",
+    "explanation": "Chain-of-Thought (CoT) prompting enhances AI performance by encouraging the model to reason through a series of steps, which is particularly useful for complex tasks."
+  },
+  {
+    "id": 5,
+    "question": "What is a potential consequence of information overload in prompt engineering?",
+    "options": {
+      "A": "Increased clarity in responses.",
+      "B": "Enhanced model creativity.",
+      "C": "Decreased response accuracy.",
+      "D": "Improved task performance."
+    },
+    "correct_answer": "C",
+    "explanation": "Information overload can lead to ambiguity and decreased response accuracy, highlighting the need for clear and concise prompts."
+  }
+]
